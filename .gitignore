@@ -18,12 +18,3 @@ __pycache__/
 .vscode/
 .idea/
 
-# System files
-.DS_Store
-Thumbs.db
-
-# Local lease documents
-*.pdf
-
-# Logs
-*.log
